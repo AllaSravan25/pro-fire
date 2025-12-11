@@ -68,7 +68,7 @@ export const SERVICES: ServiceItem[] = [
     features: ["Oil and filter replacement", "Coolant system flushing", "Compression testing", "Fuel injector calibration"],
     benefits: ["Reliable engine start-up", "Fuel efficiency", "Prevention of catastrophic engine failure"],
     icon: Activity,
-    imagePlaceholder: "/images/services/5.png"
+    imagePlaceholder: "/images/services/B&C-Check.png"
   },
   {
     id: "audits",
